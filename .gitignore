@@ -1,7 +1,5 @@
 # Ignorar carpetas y archivos de configuración personal de VS Code
-.vscode/settings.json # Ignora la configuración específica del proyecto (¡como Peacock!)
-.vscode/launch.json
-.vscode/tasks.json
+.vscode/
 
 # Ignorar la carpeta completa de Node.js (común en DAW)
 node_modules/
